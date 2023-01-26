@@ -5,9 +5,17 @@
 
 <a href="https://seriesfilmeshhss.netlify.app"/>Link para o site! </a>
 
-Site criado no intuito de pesquisar series e filmes utilizando React
+Porjeto "Series & Filmes" foi criado no intuito de pesquisar series e filmes utilizando React e Api TvMaze
 
-<img width="100px" src="https://github.com/HerickHenriqueSS/Series-E-FIlmes/blob/main/src/assets/react.svg" className="logo react" alt="React logo" />
+### Modelos 
+
+### Tecnologia utilizadas
+
+🔹 HTML5
+🔹 CSS3
+🔹 JavaScript
+🔹 React
+🔹 Vite Js
 
 ## Autor
 
