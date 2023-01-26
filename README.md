@@ -1,5 +1,5 @@
 # Series & Filmes
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/HerickHenriqueSS/Site-GrandChase/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/HerickHenriqueSS/Series-E-FIlmes/blob/main/LICENSE)
 
 ### Projeto
 
