@@ -9,13 +9,18 @@ Porjeto "Series & Filmes" foi criado no intuito de pesquisar series e filmes uti
 
 ### Modelos 
 
-### Tecnologia utilizadas
+### Tecnologia Utilizadas
 
 🔹 HTML5
 🔹 CSS3
 🔹 JavaScript
 🔹 React
 🔹 Vite Js
+
+### Api Utilizada
+
+<a href="https://www.tvmaze.com/api"/>TvMaze Api </a>
+
 
 ## Autor
 
