@@ -5,7 +5,7 @@
 
 <a href="https://seriesfilmeshhss.netlify.app"/>Link para o site! </a>
 
-Porjeto "Series & Filmes" foi criado no intuito de pesquisar series e filmes utilizando React e Api TvMaze
+Projeto "Series & Filmes" foi criado no intuito de pesquisar series e filmes utilizando React e Api TvMaze
 
 ### Modelos 
 
