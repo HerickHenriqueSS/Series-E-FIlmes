@@ -21,7 +21,7 @@ Projeto "Series & Filmes" foi criado no intuito de pesquisar series e filmes uti
 🔹 CSS3
 🔹 JavaScript
 🔹 React
-🔹 Vite Js
+🔹 Vite
 
 ### Api Utilizada
 
