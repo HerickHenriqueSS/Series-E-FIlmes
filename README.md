@@ -9,6 +9,12 @@ Porjeto "Series & Filmes" foi criado no intuito de pesquisar series e filmes uti
 
 ### Modelos 
 
+#### Pagina inicial
+<img width="500em" src="https://github.com/HerickHenriqueSS/Series-E-FIlmes/blob/main/Imagens-projeto/Page%20inicial.png" alt=""><br>
+
+#### Pagina pesquisa
+<img width="500em" src="https://github.com/HerickHenriqueSS/Series-E-FIlmes/blob/main/Imagens-projeto/Page%20Pesquisa.png" alt=""><br>
+
 ### Tecnologia Utilizadas
 
 🔹 HTML5
